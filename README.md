@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikkelAugust
 - 👀 I’m interested in FED.
 - 🌱 I’m currently learning FED.
-- 💞️ I’m looking to collaborate on anything.
+- 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me mikand04000@stud.noroff.no
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started streaming while in quarantine.
