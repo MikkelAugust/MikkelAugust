@@ -1,4 +1,4 @@
-<img src="./Profile.jpeg" align="center">
+<img src="./Profil.jpeg" align="center">
 <h1 align="center">Hi there 👋 I'm Mikkel August</h1>
 <p align="center">
   👨‍💻 Front-End Developer | 🎓 Noroff Student
