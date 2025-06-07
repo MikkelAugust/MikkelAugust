@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Mikkel August</h1>
 <p align="center">
-  👨‍💻 Front-End Developer | 🎓 Noroff Student | 🏋️‍♂️ Fitness & Training
+  👨‍💻 Front-End Developer | 🎓 Noroff Student
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ### 📫 Get in Touch
 
 - 📧 **Email:** mikand04000@stud.noroff.no  
-- 🌍 [LinkedIn] www.linkedin.com/in/mikkel-august-andaas-146033116
+- 🌍 LinkedIn www.linkedin.com/in/mikkel-august-andaas-146033116
 
 ---
 
